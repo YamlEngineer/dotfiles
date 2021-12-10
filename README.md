@@ -27,7 +27,7 @@
 - Bar Icons&Fonts with [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
 - Music Player with [mpd](https://www.musicpd.org/).
 - Managment Display with [sddm](https://github.com/sddm/sddm).
-- Terminal emulator with [kitty] (https://github.com/kovidgoyal/kitty) .
+- Terminal emulator with [kitty](https://github.com/kovidgoyal/kitty).
 
 ## used Repositories
 - Neovim Config with [NvChad](https://nvchad.github.io/).
