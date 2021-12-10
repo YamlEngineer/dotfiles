@@ -26,11 +26,13 @@
 - Time in workspaces with [conky](https://github.com/brndnmtthws/conky) .
 - Bar Icons&Fonts with [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
 - Music Player with [mpd](https://www.musicpd.org/).
+- Managment Display with [sddm](https://github.com/sddm/sddm).
 
 ## used Repo
 - Neovim Config with [NvChad](https://nvchad.github.io/).
 - Polybar Config with [Polybar-Themes](https://github.com/adi1090x/polybar-themes).
 - Cava in workspaces with [spectrumyzer](https://github.com/HaCk3Dq/spectrumyzer).
+- SDDM beautiful theme with [sddm-chili](https://github.com/MarianArlt/sddm-chili).
 
 ## Note
 The Updates module only works for pacman (Arch Linux package manager)
