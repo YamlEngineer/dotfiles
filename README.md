@@ -5,7 +5,7 @@
   <span> • </span>
     	<a href="https://github.com/Alibabaeix/dotfiles#Dependencies">Dependencies</a>
   <span> • </span>
-       	<a href="https://github.com/Alibabaeix/dotfiles#used-Packages">used Packages</a>
+       	<a href="https://github.com/Alibabaeix/dotfiles#used-Repositories">used Repositories</a>
   <span> • </span>
        	<a href="https://github.com/Alibabaeix/dotfiles#Note">Note</a>
   <p></p>
@@ -28,7 +28,7 @@
 - Music Player with [mpd](https://www.musicpd.org/).
 - Managment Display with [sddm](https://github.com/sddm/sddm).
 
-## used Repo
+## used Repositories
 - Neovim Config with [NvChad](https://nvchad.github.io/).
 - Polybar Config with [Polybar-Themes](https://github.com/adi1090x/polybar-themes).
 - Cava in workspaces with [spectrumyzer](https://github.com/HaCk3Dq/spectrumyzer).
