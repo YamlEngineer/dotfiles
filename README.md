@@ -1,4 +1,4 @@
-<h1 align="center">@Alibabaeix BSPWM dotfiles</h1>
+<h1 align="center"><a href="https://github.com/Alibabaeix">Alibabaeix</a> BSPWM dotfiles</h1>
 
 <div align="center">
 	<a href="https://github.com/Alibabaeix/dotfiles#Shots">Shots</a>
@@ -6,8 +6,11 @@
     	<a href="https://github.com/Alibabaeix/dotfiles#Dependencies">Dependencies</a>
   <span> • </span>
        	<a href="https://github.com/Alibabaeix/dotfiles#used-Packages">used Packages</a>
+  <span> • </span>
+       	<a href="https://github.com/Alibabaeix/dotfiles#Note">Note</a>
   <p></p>
 </div>
+
 
 ## Shots
 <img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/login.png"><hr>
