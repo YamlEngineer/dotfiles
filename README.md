@@ -27,12 +27,14 @@
 - Bar Icons&Fonts with [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
 - Music Player with [mpd](https://www.musicpd.org/).
 - Managment Display with [sddm](https://github.com/sddm/sddm).
+- Terminal emulator with [kitty] (https://github.com/kovidgoyal/kitty) .
 
 ## used Repositories
 - Neovim Config with [NvChad](https://nvchad.github.io/).
 - Polybar Config with [Polybar-Themes](https://github.com/adi1090x/polybar-themes).
 - Cava in workspaces with [spectrumyzer](https://github.com/HaCk3Dq/spectrumyzer).
 - SDDM beautiful theme with [sddm-chili](https://github.com/MarianArlt/sddm-chili).
+- terminal beautiful theme with [kitty-theme-OneDark](https://github.com/GiuseppeCesarano/kitty-theme-OneDark).
 
 ## Note
 The Updates module only works for pacman (Arch Linux package manager)
