@@ -10,12 +10,24 @@
 </div>
 
 ## Shots
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/login.png">
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main1.png">
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main2.png">
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/nvim.png">
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/login.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main1.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main2.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/nvim.png"><hr>
 <img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/menu.png">
 
 ## Dependencies
+- Bar with [polybar](https://github.com/polybar/polybar).
+- Backgrund Image with [feh](https://feh.finalrewind.org/).
+- Beautiful audio vizualizer with [cava](https://github.com/karlstav/cava).
+- Time in workspaces with [conky](https://github.com/brndnmtthws/conky) .
+- Bar Icons&Fonts with [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
+- Music Player with [mpd](https://www.musicpd.org/).
 
-## used Packages
+## used Repo
+- Neovim Config with [NvChad](https://nvchad.github.io/).
+- Polybar Config with [Polybar-Themes](https://github.com/adi1090x/polybar-themes).
+- Cava in workspaces with [spectrumyzer](https://github.com/HaCk3Dq/spectrumyzer).
+
+## Note
+The Updates module only works for pacman (Arch Linux package manager)
