@@ -15,5 +15,9 @@ return {
    },
 
    ["hashivim/vim-terraform"] = {},
+   
+   ["goolord/alpha-nvim"] = {
+      disable = false,
+   },
 
 }
