@@ -1,0 +1,25 @@
+#!/bin/bash
+if [[ ! -f /tmp/.ipinfolastrequest ]] || [[ $(date +%s) > $(cat /tmp/.ipinfolastrequest) ]]; then
+  $(curl --silent http://ip-api.com/json -o /tmp/.ip-api.json)
+  $(echo $(date +%s --date '5 seconds') >| /tmp/.ipinfolastrequest)
+fi
+if [[ $1 != '--help' ]] && [[ ! -z $1 ]]; then
+  Result=$(cat /tmp/.ip-api.json | jq -r .$1)
+  if [[ $Result = "null" ]]; then
+    echo "command not found" && exit
+  fi
+  echo $Result
+elif [[ $1 = "--help" ]] || [[ -z $1 ]]; then
+  echo "Usage: ipinfo [<options>] [<command>]"
+  echo "
+██╗██████╗ ██╗███╗   ██╗███████╗ ██████╗
+██║██╔══██╗██║████╗  ██║██╔════╝██╔═══██╗
+██║██████╔╝██║██╔██╗ ██║█████╗  ██║   ██║
+██║██╔═══╝ ██║██║╚██╗██║██╔══╝  ██║   ██║
+██║██║     ██║██║ ╚████║██║     ╚██████╔╝
+╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝
+"
+  echo "Options:
+  --help  Show this message and exit."
+  echo "Commands: [country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query]"
+fi
