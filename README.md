@@ -13,7 +13,7 @@
 
 
 ## Shots
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/login.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/login.png"><hr>
 <img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main1.png"><hr>
 <img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main2.png"><hr>
 
