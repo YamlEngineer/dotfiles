@@ -1,23 +1,23 @@
 <h1 align="center"><a href="https://github.com/Alibabaeix">Alibabaeix</a> BSPWM dotfiles</h1>
 
 <div align="center">
-	<a href="https://github.com/Alibabaeix/dotfiles#Shots">Shots</a>
+	<a href="#shots">Shots</a>
   <span> • </span>
-    	<a href="https://github.com/Alibabaeix/dotfiles#Dependencies">Dependencies</a>
+    	<a href="#Dependencies">Dependencies</a>
   <span> • </span>
-       	<a href="https://github.com/Alibabaeix/dotfiles#used-Repositories">used Repositories</a>
+       	<a href="#used-Repositories">used Repositories</a>
   <span> • </span>
-       	<a href="https://github.com/Alibabaeix/dotfiles#Note">Note</a>
+       	<a href="#Note">Note</a>
   <p></p>
 </div>
 
 
 ## Shots
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/login.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main1.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main2.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/nvim.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/menu.png">
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/login.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/main1.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/main2.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/nvim.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/menu.png">
 
 ## Dependencies
 - Bar with [polybar](https://github.com/polybar/polybar).

@@ -1,21 +1,21 @@
 <h1 align="center"><a href="https://github.com/Alibabaeix">Alibabaeix</a> DWM dotfiles</h1>
 
 <div align="center">
-	<a href="https://github.com/Alibabaeix/dotfiles#Shots">Shots</a>
+	<a href="#Shots">Shots</a>
   <span> • </span>
-    	<a href="https://github.com/Alibabaeix/dotfiles#Dependencies">Dependencies</a>
+    	<a href="#Dependencies">Dependencies</a>
   <span> • </span>
-       	<a href="https://github.com/Alibabaeix/dotfiles#used-Repositories">used Repositories</a>
+       	<a href="#used-Repositories">used Repositories</a>
   <span> • </span>
-       	<a href="https://github.com/Alibabaeix/dotfiles#Note">Note</a>
+       	<a href="#Note">Note</a>
   <p></p>
 </div>
 
 
 ## Shots
 <img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/login.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main1.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/Shots/main2.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main1.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main2.png"><hr>
 
 ## Dependencies
 - Backgrund Image with [feh](https://feh.finalrewind.org/).
