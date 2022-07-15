@@ -13,11 +13,11 @@
 
 
 ## Shots
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/login.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/main1.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/main2.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/nvim.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/old/Shots/menu.png">
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/login.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/main1.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/main2.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/nvim.png"><hr>
+<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/menu.png">
 
 ## Dependencies
 - Bar with [polybar](https://github.com/polybar/polybar).
