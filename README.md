@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/FakeSuod">FAkeSudo</a> DWM dotfiles</h1>
+<h1 align="center"><a href="https://github.com/FakeSudo">FakeSudo</a> DWM dotfiles</h1>
 
 <div align="center">
 	<a href="#Shots">Shots</a>
