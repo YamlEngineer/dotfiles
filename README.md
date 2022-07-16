@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Alibabaeix">Alibabaeix</a> DWM dotfiles</h1>
+<h1 align="center"><a href="https://github.com/FakeSuod">FAkeSudo</a> DWM dotfiles</h1>
 
 <div align="center">
 	<a href="#Shots">Shots</a>
@@ -13,9 +13,9 @@
 
 
 ## Shots
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/bspwm/Shots/login.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main1.png"><hr>
-<img src="https://raw.githubusercontent.com/Alibabaeix/dotfiles/main/shots/main2.png"><hr>
+<img src="https://raw.githubusercontent.com/FakeSudo/dotfiles/main/bspwm/Shots/login.png"><hr>
+<img src="https://raw.githubusercontent.com/FakeSudo/dotfiles/main/shots/main1.png"><hr>
+<img src="https://raw.githubusercontent.com/FakeSudo/dotfiles/main/shots/main2.png"><hr>
 
 ## Dependencies
 - Backgrund Image with [feh](https://feh.finalrewind.org/).
